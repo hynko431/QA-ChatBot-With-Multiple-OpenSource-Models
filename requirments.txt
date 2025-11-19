@@ -1,6 +1,7 @@
-langchain
-python-dotenv
-langchain_community
-langchain_core
-langchain_ollama
 streamlit
+langchain
+langchain-core
+langchain-ollama
+python-dotenv
+pydantic
+requests
